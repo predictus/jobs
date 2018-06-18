@@ -30,4 +30,4 @@ We are looking for candidates willing to join us on this adventure to work on ou
 - We are a growing team of 7 people in Paris, 4 in Lagos
 - We are based in the startup incubator Agoranov in Paris
 
-If you feel that you are made for this, send me an email at matthieu+hiring@predictus.io!
+If you feel that you are made for this, send us an email at jobs@predictus.io!
