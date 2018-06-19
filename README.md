@@ -7,11 +7,22 @@ Our mission is to drive financial inclusion and unlock credit products for the b
 We are looking for candidates willing to join us on this adventure to work on our algorithms and improve our product.
 
 ## Your responsibilities
+### Data scientist
 - You will explore various statistical models to forecast client's default risk based on real time financial & personal data
 - You will implement your models in our product as soon as possible and improve your solution continuously based on its results
 - You will propose new metrics and visual representation of differents models, provide regular feedback to the rest of the company
 - You will look for new data sources and evaluate their potential
 - To achieve the maximum efficiency you will have to understand the key aspects of financial inclusion, the fintech ecosystem and the concrete needs of our users
+
+### Software developer
+- You will develop the interface with our payment provider to ensure that our customers can access their loan as fast as possible
+- You will build a sustainable technical infrastructure that can handle the current growth of 50% per month
+- You will design internal reporting tools to track performance and customer satisfaction
+
+### Android developer
+- You will give the ability for our users to apply in the most convenient way possible while being able to provide relevant informations
+- You will contribute to the financial education of our users: taking a microcredit is just one part of the story. It is often their first financial service and in the application we have to help them to make good use of the microcredit, make sure that they are able to repay on time and also make them understand the negative consequence of defaults
+- You will work on fraud detection to ensure that only legitimate customers can access our loans
 
 ## What we like
 - Ability to tackle complexity in real-world datasets
