@@ -6,6 +6,13 @@ Our mission is to drive financial inclusion and unlock credit products for the b
 
 We are looking for candidates willing to join us on this adventure to work on our algorithms and improve our product.
 
+## Our stack
+- Our customer product is an android application developed in Java
+- It communicates with a Ruby on Rails backend
+- The credit decision algorithms runs on Python via the Flask framework
+- We are hosted on AWS: we use Elastic Beanstalk, a RDS mysql database, S3, lambda, SES ...
+- We have automated tests that run on Travis
+
 ## Your responsibilities
 ### Data scientist
 - You will explore various statistical models to forecast client's default risk based on real time financial & personal data
@@ -15,6 +22,7 @@ We are looking for candidates willing to join us on this adventure to work on ou
 - To achieve the maximum efficiency you will have to understand the key aspects of financial inclusion, the fintech ecosystem and the concrete needs of our users
 
 ### Software developer
+- You will coconstruct our API to communicate with the Android application
 - You will develop the interface with our payment provider to ensure that our customers can access their loan as fast as possible
 - You will build a sustainable technical infrastructure that can handle the current growth of 50% per month
 - You will design internal reporting tools to track performance and customer satisfaction
