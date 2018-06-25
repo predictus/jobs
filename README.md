@@ -6,7 +6,7 @@ Our mission is to drive financial inclusion and unlock credit products for the b
 
 We are looking for candidates willing to join us on this adventure to work on our algorithms and improve our product.
 
-## Our stack
+## [Our stack](https://stackshare.io/predictus/predictus/)
 - Our customer product is an android application developed in Java
 - It communicates with a Ruby on Rails backend
 - The credit decision algorithms runs on Python via the Flask framework
