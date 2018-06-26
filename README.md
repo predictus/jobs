@@ -35,7 +35,9 @@ We are looking for candidates willing to join us on this adventure to work on ou
 ## What we like
 - Ability to tackle complexity in real-world datasets
 - Experience in working with machine learning algorithms
+- User centric mindset
 - Capacity to handle a good level of code quality and stability
+- Overall interest in the fintech industry
 - English speaking candidates (our working language)
 
 ## What we love
