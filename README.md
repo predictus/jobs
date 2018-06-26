@@ -2,7 +2,7 @@
 
 ## Intro
 At Predictus, we are developing an innovative credit scoring methodology aimed at emerging markets. We use smartphone data to reconstruct financial profiles and underwrite loans for individuals and small businesses that don't have access to these products in traditional banks.
-Our mission is to drive financial inclusion and unlock credit products for the billions of underbanked worldwide.
+Our long term vision is to drive financial inclusion for the billions of underbanked worldwide and provide them with a product  capable of offering a full suit of financial services at the tip of a finger.
 
 We are looking for candidates willing to join us on this adventure to work on our algorithms and improve our product.
 
