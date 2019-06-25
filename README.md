@@ -1,4 +1,4 @@
-### FairMoney is hiring (https://www.welcometothejungle.co/en/companies/fairmoney)
+### FairMoney is hiring ([Apply here](https://www.welcometothejungle.co/en/companies/fairmoney))
 
 ## Intro
 Worldwide there are 2 billion people that have no or only limited access to financial services. Most of them are in emerging markets. To solve this problem FairMoney has created an android application which is using smartphone data to build instant credit scores and give loans to individuals & small businesses (operating today in Nigeria).
