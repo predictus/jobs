@@ -29,6 +29,7 @@ We have very ambitious goals, and we know we can't achieve them if we are consta
 - We have a 0 tolerance policy for bugs: always fix before starting something new.
 
 ## Job openings
+- [Head of talent](https://github.com/predictus/jobs/blob/master/head_of_talent.md)
 - [Software engineer](https://github.com/predictus/jobs/blob/master/software_engineer.md)
 - [Data scientist](https://github.com/predictus/jobs/blob/master/data_scientist.md)
 - [Android developer](https://github.com/predictus/jobs/blob/master/android_developer.md)
