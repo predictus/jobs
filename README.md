@@ -19,7 +19,14 @@ To build the best products, we want our employees to meet customers which implie
 - It communicates with a Ruby on Rails backend
 - The credit decision algorithms runs on Python via the Flask framework
 - We are hosted on AWS: we use Elastic Beanstalk, a RDS mysql database, S3, lambda, SES ...
-- We have automated tests that run on Travis
+
+## Our development pratices
+We have very ambitious goals, and we know we can't achieve them if we are constantly hold back by maintaining old buggy code that is why we emphasis on shipping code of very high quality to always move fast.
+- 95% of the code is peer reviewed.
+- We use Github PRs and [Pull Panda](https://pullreminders.com/): goal is to have short PRs, quickly merged.
+- We are writing tests (units and integration) and use Travis to run them on every commit. Today we have a 80% code coverage.
+- Merging on master triggers an automatic deployment. At FairMoney continuous deployment is not an empty word, we have launched 79 deployments on the last 30 days.
+- We have a 0 tolerance policy for bugs: always fix before starting something new.
 
 ## Your responsibilities
 ### Data scientist
