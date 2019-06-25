@@ -1,4 +1,4 @@
-### FairMoney is hiring (jobs@predictus.io)
+### FairMoney is hiring (https://www.welcometothejungle.co/en/companies/fairmoney)
 
 ## Intro
 At FairMoney, we are developing an innovative credit scoring methodology aimed at emerging markets. We use smartphone data to reconstruct financial profiles and underwrite loans for individuals and small businesses that don't have access to these products in traditional banks.
