@@ -7,6 +7,13 @@ Our ambition: becoming the leading digital bank of emerging markets.
 
 FairMoney has been created in 2017. In February 2019, we crossed the bar of the 100,000 disbursed loans and want to reach 1 million disbursed loans by the end of the year. We plan to open 4 new countries this year and create new functionalities for our customers such as saving accounts.
 
+## What we are looking for
+We are looking for bar raisers. People that raise the standards - that are excellent in what they do and willing to solve big challenges.
+
+We are looking for pragmatic and perseverant people that are passionate about problem solving and hungry enough to achieve their mission to build the leading mobile bank for emerging markets.
+
+To build the best products, we want our employees to meet customers which implies to travel to the different markets. FairMoney is an international team, composed of French, Nigerian, German, Japanese employees, meaning that we value diversity a lot.
+
 ## [Our stack](https://stackshare.io/predictus/predictus/)
 - Our customer product is an android application developed in Java
 - It communicates with a Ruby on Rails backend
