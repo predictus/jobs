@@ -1,10 +1,11 @@
 ### FairMoney is hiring (https://www.welcometothejungle.co/en/companies/fairmoney)
 
 ## Intro
-At FairMoney, we are developing an innovative credit scoring methodology aimed at emerging markets. We use smartphone data to reconstruct financial profiles and underwrite loans for individuals and small businesses that don't have access to these products in traditional banks.
-Our long term vision is to drive financial inclusion for the billions of underbanked worldwide and provide them with a product  capable of offering a full suit of financial services at the tip of a finger.
+Worldwide there are 2 billion people that have no or only limited access to financial services. Most of them are in emerging markets. To solve this problem FairMoney has created an android application which is using smartphone data to build instant credit scores and give loans to individuals & small businesses (operating today in Nigeria).
 
-We are looking for candidates willing to join us on this adventure to work on our algorithms and improve our product.
+Our ambition: becoming the leading digital bank of emerging markets.
+
+FairMoney has been created in 2017. In February 2019, we crossed the bar of the 100,000 disbursed loans and want to reach 1 million disbursed loans by the end of the year. We plan to open 4 new countries this year and create new functionalities for our customers such as saving accounts.
 
 ## [Our stack](https://stackshare.io/predictus/predictus/)
 - Our customer product is an android application developed in Java
