@@ -28,14 +28,10 @@ We have very ambitious goals, and we know we can't achieve them if we are consta
 - Merging on master triggers an automatic deployment. At FairMoney continuous deployment is not an empty word, we have launched 79 deployments on the last 30 days.
 - We have a 0 tolerance policy for bugs: always fix before starting something new.
 
-## Your responsibilities
-### Data scientist
-- You will explore various statistical models to forecast client's default risk based on real time financial & personal data
-- You will implement your models in our product as soon as possible and improve your solution continuously based on its results
-- You will propose new metrics and visual representation of differents models, provide regular feedback to the rest of the company
-- You will look for new data sources and evaluate their potential
-- To achieve the maximum efficiency you will have to understand the key aspects of financial inclusion, the fintech ecosystem and the concrete needs of our users
+## Job openings
+- [Data scientist](https://github.com/predictus/jobs/blob/master/data_scientist.md)
 
+## Your responsibilities
 ### Software developer
 - You will co-construct our API to communicate with the Android application
 - You will develop the interface with our payment provider to ensure that our customers can access their loan as fast as possible
