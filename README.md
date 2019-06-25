@@ -29,19 +29,9 @@ We have very ambitious goals, and we know we can't achieve them if we are consta
 - We have a 0 tolerance policy for bugs: always fix before starting something new.
 
 ## Job openings
+- [Software engineer](https://github.com/predictus/jobs/blob/master/software_engineer.md)
 - [Data scientist](https://github.com/predictus/jobs/blob/master/data_scientist.md)
-
-## Your responsibilities
-### Software developer
-- You will co-construct our API to communicate with the Android application
-- You will develop the interface with our payment provider to ensure that our customers can access their loan as fast as possible
-- You will build a sustainable technical infrastructure that can handle the current growth of 50% per month
-- You will design internal reporting tools to track performance and customer satisfaction
-
-### Android developer
-- You will give the ability for our users to apply in the most convenient way possible while being able to provide relevant informations
-- You will contribute to the financial education of our users: taking a microcredit is just one part of the story. It is often their first financial service and in the application we have to help them to make good use of the microcredit, make sure that they are able to repay on time and also make them understand the negative consequence of defaults
-- You will work on fraud detection to ensure that only legitimate customers can access our loans
+- [Android developer](https://github.com/predictus/jobs/blob/master/android_developer.md)
 
 ## What we like
 - Ability to tackle complexity in real-world datasets
