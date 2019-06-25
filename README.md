@@ -1,7 +1,7 @@
-### Predictus is hiring (jobs@predictus.io)
+### FairMoney is hiring (jobs@predictus.io)
 
 ## Intro
-At Predictus, we are developing an innovative credit scoring methodology aimed at emerging markets. We use smartphone data to reconstruct financial profiles and underwrite loans for individuals and small businesses that don't have access to these products in traditional banks.
+At FairMoney, we are developing an innovative credit scoring methodology aimed at emerging markets. We use smartphone data to reconstruct financial profiles and underwrite loans for individuals and small businesses that don't have access to these products in traditional banks.
 Our long term vision is to drive financial inclusion for the billions of underbanked worldwide and provide them with a product  capable of offering a full suit of financial services at the tip of a finger.
 
 We are looking for candidates willing to join us on this adventure to work on our algorithms and improve our product.
@@ -54,5 +54,5 @@ We are looking for candidates willing to join us on this adventure to work on ou
 
 If you feel that you are made for this, send us an email at jobs@predictus.io!
 
-## More about Predictus
-Predictus has been created in September 2017 within the startup studio [Le Studio](https://www.linkedin.com/company/le-studio-vc/). Our first market is Nigeria where to date more than 7.000 loans have been disbursed. The goal is now to grow this number aggressively, expand our technology to other emerging markets and offer savings accounts. We see ourselves as a data company which use technology to promote financial inclusion. We are looking for talented candidates that are looking to make a difference by achieving ambitious goals while working in a pleasant and relaxed environment.
+## More about FairMoney
+FairMoney has been created in September 2017 within the startup studio [Le Studio](https://www.linkedin.com/company/le-studio-vc/). Our first market is Nigeria where to date more than 7.000 loans have been disbursed. The goal is now to grow this number aggressively, expand our technology to other emerging markets and offer savings accounts. We see ourselves as a data company which use technology to promote financial inclusion. We are looking for talented candidates that are looking to make a difference by achieving ambitious goals while working in a pleasant and relaxed environment.
