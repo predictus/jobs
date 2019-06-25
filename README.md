@@ -34,26 +34,21 @@ We have very ambitious goals, and we know we can't achieve them if we are consta
 - [Android developer](https://github.com/predictus/jobs/blob/master/android_developer.md)
 
 ## What we like
-- Ability to tackle complexity in real-world datasets
-- Experience in working with machine learning algorithms
-- User centric mindset
 - Capacity to handle a good level of code quality and stability
 - Overall interest in the fintech industry
 - English speaking candidates (our working language)
 
 ## What we love
+- User centric mindset
 - Driven by impact
 - Perseverance and strong team spirit
 - Proactive and autonomous - "Get it done" attitude with will to overreach objectives
 
 ## Why should you join us?
-- You will have a unique opportunity to apply your skills on a live product
+- You will have a unique opportunity to apply your skills on a mass market live product (3.000+ daily new users)
 - Your work will have a positive impact on our user’s daily life
-- We are a growing team of 7 people in Paris, 4 in Lagos
+- We are a fast growing team of 10 people in Paris, 17 in Lagos
 - We are based in the startup incubator Agoranov in Paris
 - You will travel to Nigeria and other emerging markets to meet with our customers
 
-If you feel that you are made for this, send us an email at jobs@predictus.io!
-
-## More about FairMoney
-FairMoney has been created in September 2017 within the startup studio [Le Studio](https://www.linkedin.com/company/le-studio-vc/). Our first market is Nigeria where to date more than 7.000 loans have been disbursed. The goal is now to grow this number aggressively, expand our technology to other emerging markets and offer savings accounts. We see ourselves as a data company which use technology to promote financial inclusion. We are looking for talented candidates that are looking to make a difference by achieving ambitious goals while working in a pleasant and relaxed environment.
+If you feel that you are made for this, send us an email at jobs@predictus.io or [apply here](https://www.welcometothejungle.co/en/companies/fairmoney) !
