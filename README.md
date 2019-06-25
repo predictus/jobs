@@ -51,4 +51,10 @@ We have very ambitious goals, and we know we can't achieve them if we are consta
 - We are based in the startup incubator Agoranov in Paris
 - You will travel to Nigeria and other emerging markets to meet with our customers
 
+## Recruitment process
+1) Phone call
+2) Physical interview with the CTO + technical test
+3) Meet the team
+The whole recruitement process should not take longer than a week.
+
 If you feel that you are made for this, send us an email at jobs@predictus.io or [apply here](https://www.welcometothejungle.co/en/companies/fairmoney) !
