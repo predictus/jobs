@@ -4,3 +4,8 @@
 - You will propose new metrics and visual representation of differents models, provide regular feedback to the rest of the company
 - You will look for new data sources and evaluate their potential
 - To achieve the maximum efficiency you will have to understand the key aspects of financial inclusion, the fintech ecosystem and the concrete needs of our users
+
+## Preferred experience
+- Ability to tackle complexity in real-world datasets
+- Experience in working with machine learning algorithms
+- Capacity to handle a good level of code quality and stability
