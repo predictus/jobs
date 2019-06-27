@@ -8,7 +8,7 @@ You will have a key position at FairMoney: the one in charge of hiring the best 
 
 ## What you could do:
 - Participate in events gathering the tech community.
-- Work hand in hand with our technical team to undestand our product and sell what we do to the outside world
+- Work hand in hand with our technical team to understand our product and sell what we do to the outside world
 - Participate in the growth of the team, creating new content, new processes, sharing best practices etc ...
 
 ## Preferred experience
